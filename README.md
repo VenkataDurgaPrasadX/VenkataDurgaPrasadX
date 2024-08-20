@@ -117,27 +117,28 @@ Prasad12220336@github:~$ ./welcome.sh
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suphalbochkar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="210" alt="Languages Graph" />
 
+<h2 class="heading-element" dir="auto"> Connect with me</h2>
 <!-- footer section start -->
 <footer>
     <div class="social-media">
         <a href="https://www.linkedin.com/in/venkata-durga-prasad-tattukolla-6b1635255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             class="social-icon linkedin">
-            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" alt="LinkedIn" width="80" height="35" />
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=" alt="LinkedIn" width="80" height="30" />
         </a>
         <a href="https://www.instagram.com/_prasad_bgm_?igsh=MTR3cnp6c2cxYnV6cg==" class="social-icon instagram">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&label=" alt="Instagram" width="80" height="35" />
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&label=" alt="Instagram" width="80" height="30" />
         </a>
         <a href="https://www.facebook.com/vdp.dupkiking" class="social-icon facebook">
-            <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&label=" alt="Facebook" width="80" height="35" />
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&label=" alt="Facebook" width="80" height="30" />
         </a>
         <a href="https://github.com/Prasad12220336" class="social-icon github">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=" alt="GitHub" width="80" height="35" />
+            <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=" alt="GitHub" width="80" height="30" />
         </a>
         <a href="https://twitter.com" class="social-icon twitter">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&label=" alt="Twitter" width="80" height="35" />
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&label=" alt="Twitter" width="80" height="30" />
         </a>
         <a href="https://www.youtube.com/@prasadcreations3818" class="social-icon youtube">
-            <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&label=" alt="YouTube" width="80" height="35" />
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&label=" alt="YouTube" width="80" height="30" />
         </a>
     </div>
 </footer>
