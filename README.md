@@ -10,9 +10,14 @@
 
 ## We often put so much energy into the big picture, we forget the pixels.
 </div>
-<a href="https://www.youtube.com/@prasadcreations3818?sub_confirmation=1" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #E05D44; border-radius: 5px; text-decoration: none; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  Subscribe to My YouTube Channel
+<!-- YouTube Subscribe Badge -->
+<a href="https://www.youtube.com/@prasadcreations3818?sub_confirmation=1" target="_blank">
+  <img alt="Subscribe to my YouTube channel" 
+       src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&amp;label=SUBSCRIBE&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" 
+       style="max-width: 100%; height: auto;">
 </a>
+
+
 
 <!-- About ME -->
 
