@@ -116,3 +116,31 @@ Prasad12220336@github:~$ ./welcome.sh
 
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suphalbochkar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="210" alt="Languages Graph" />
+
+<!-- footer section start -->
+<footer>
+    <span>Created By <a href="https://github.com/Prasad12220336">Venkata Durga Prasad</a> | <span
+            class="far fa-copyright"></span> 2024 All rights reserved.</span>
+    <div class="social-media">
+        <a href="https://www.linkedin.com/in/venkata-durga-prasad-tattukolla-6b1635255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            class="social-icon linkedin">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linkedin/linkedin2.svg" alt="LinkedIn" height="25" />
+        </a>
+        <a href="https://www.instagram.com/_prasad_bgm_?igsh=MTR3cnp6c2cxYnV6cg==" class="social-icon instagram">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Instagram" height="25" />
+        </a>
+        <a href="https://www.facebook.com/vdp.dupkiking" class="social-icon facebook">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Facebook/facebook2.svg" alt="Facebook" height="25" />
+        </a>
+        <a href="https://github.com/Prasad12220336" class="social-icon github">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
+        </a>
+        <a href="https://twitter.com" class="social-icon twitter">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter" height="25" />
+        </a>
+        <a href="https://www.youtube.com/@prasadcreations3818" class="social-icon youtube">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/YouTube/youtube2.svg" alt="YouTube" height="25" />
+        </a>
+    </div>
+</footer>
+<!-- footer section end -->
