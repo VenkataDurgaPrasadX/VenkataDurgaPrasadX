@@ -10,14 +10,31 @@
 
 ## We often put so much energy into the big picture, we forget the pixels.
 </div>
-<!-- YouTube Subscribe Badge -->
-<a href="https://www.youtube.com/@prasadcreations3818?sub_confirmation=1" target="_blank">
-  <img alt="Subscribe to my YouTube channel" 
-       src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&amp;label=SUBSCRIBE&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" 
-       style="max-width: 100%; height: auto;">
-</a>
-
-
+<p align="left">
+    <!-- Subscribe Button -->
+    <a href="https://www.youtube.com/@prasadcreations3818?sub_confirmation=1">
+        <img alt="youtube subscribers" 
+             title="Subscribe to my YouTube channel" 
+             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
+    </a> <!-- View Button -->
+    <a href="https://www.youtube.com/@prasadcreations3818">
+        <img alt="youtube views" 
+             title="YouTube views" 
+             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
+    </a> 
+     <!-- GitHub Followers Button -->
+    <a href="https://github.com/Prasad12220336?tab=followers">
+        <img alt="followers" 
+             title="Follow me on GitHub" 
+             src="https://custom-icon-badges.demolab.com/github/followers/Prasad12220336?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+    </a>
+    <!-- GitHub Stars Button -->
+    <a href="https://github.com/Prasad12220336?tab=repositories&sort=stargazers">
+        <img alt="total stars" 
+             title="Total stars on GitHub" 
+             src="https://custom-icon-badges.demolab.com/github/stars/Prasad12220336?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+    </a>
+</p>
 
 <!-- About ME -->
 
