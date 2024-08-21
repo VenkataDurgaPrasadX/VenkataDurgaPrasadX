@@ -112,7 +112,7 @@ Prasad12220336@github:~$ ./welcome.sh
 <img class="output" src="https://github-readme-stats.vercel.app/api?username=Prasad12220336&amp;theme=radical&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
 
 ## GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Prasad12220336&theme=radical&border_radius=4.8&card_width=500" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Prasad12220336&theme=radical&border_radius=4.8&card_width=500" alt="GitHub Streak" style="max-width: 100%;">
 
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suphalbochkar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="210" alt="Languages Graph" />
