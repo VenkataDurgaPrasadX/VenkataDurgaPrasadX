@@ -52,10 +52,10 @@ Prasad12220336@github:~$ ./welcome.sh
 ```markdown
 🎓 Pursuing a Bachelor's in Computer Science
 👨‍💻 Passionate about programming and exploring the world of technology.
-🔎 Main interests: Web Development & Cyber Security
+🔎 Main interests: Ui Ux & Machine Learning
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into Cloud Computing and Next.js
-🌟 Proficient in: JAVA, DSA
+🌟 Proficient in: Java, Dsa
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Arch btw...
