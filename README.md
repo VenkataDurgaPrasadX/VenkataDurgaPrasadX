@@ -55,7 +55,7 @@ Prasad12220336@github:~$ ./welcome.sh
 🔎 Main interests: Web Development & Cyber Security
 🔭 Thriving on building robust Backend Systems.
 🌱 Currently diving into Cloud Computing and Next.js
-🌟 Proficient in: C++, TypeScript
+🌟 Proficient in: JAVA, DSA
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Arch btw...
