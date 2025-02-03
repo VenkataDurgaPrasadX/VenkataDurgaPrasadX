@@ -141,5 +141,10 @@ Prasad12220336@github:~$ ./welcome.sh
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&label=" alt="YouTube" width="80" height="30" />
         </a>
     </div>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VenkataDurgaPrasadX/VenkataDurgaPrasadX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VenkataDurgaPrasadX/VenkataDurgaPrasadX/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VenkataDurgaPrasadX/VenkataDurgaPrasadX/output/github-snake.svg" />
+</picture>
 </footer>
 <!-- footer section end -->
