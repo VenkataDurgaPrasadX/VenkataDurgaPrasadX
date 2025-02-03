@@ -142,7 +142,7 @@ Prasad12220336@github:~$ ./welcome.sh
         </a>
     </div>
 
-    <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VenkataDurgaPrasadX/VenkataDurgaPrasadX/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VenkataDurgaPrasadX/VenkataDurgaPrasadX/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/VenkataDurgaPrasadX/VenkataDurgaPrasadX/output/github-snake.svg" />
