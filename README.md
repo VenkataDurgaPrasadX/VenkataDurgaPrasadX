@@ -23,16 +23,16 @@
              src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
     </a> 
      <!-- GitHub Followers Button -->
-    <a href="https://github.com/Prasad12220336?tab=followers">
+    <a href="https://github.com/VenkataDurgaPrasadX?tab=followers">
         <img alt="followers" 
              title="Follow me on GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/followers/Prasad12220336?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+             src="https://custom-icon-badges.demolab.com/github/followers/VenkataDurgaPrasadX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
     <!-- GitHub Stars Button -->
-    <a href="https://github.com/Prasad12220336?tab=repositories&sort=stargazers">
+    <a href="https://github.com/VenkataDurgaPrasadX?tab=repositories&sort=stargazers">
         <img alt="total stars" 
              title="Total stars on GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/stars/Prasad12220336?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+             src="https://custom-icon-badges.demolab.com/github/stars/VenkataDurgaPrasadX?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
     </a>
 </p>
 
@@ -46,7 +46,7 @@
     </div>
   
 ```bash
-Prasad12220336@github:~$ ./welcome.sh
+VenkataDurgaPrasadX@github:~$ ./welcome.sh
 ```
 
 ```markdown
@@ -109,10 +109,10 @@ Prasad12220336@github:~$ ./welcome.sh
 
 ### GitHub Stats
 
-<img class="output" src="https://github-readme-stats.vercel.app/api?username=Prasad12220336&amp;theme=radical&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
+<img class="output" src="https://github-readme-stats.vercel.app/api?username=VenkataDurgaPrasadX&amp;theme=radical&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats">
 
 ## GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prasad12220336&theme=radical&border_radius=4.8&card_width=500" alt="GitHub Streak" style="max-width: 100%;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VenkataDurgaPrasadX&theme=radical&border_radius=4.8&card_width=500" alt="GitHub Streak" style="max-width: 100%;">
 
 ## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suphalbochkar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="210" alt="Languages Graph" />
@@ -131,7 +131,7 @@ Prasad12220336@github:~$ ./welcome.sh
         <a href="https://www.facebook.com/vdp.dupkiking" class="social-icon facebook">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&label=" alt="Facebook" width="80" height="30" />
         </a>
-        <a href="https://github.com/Prasad12220336" class="social-icon github">
+        <a href="https://github.com/VenkataDurgaPrasadX" class="social-icon github">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=" alt="GitHub" width="80" height="30" />
         </a>
         <a href="https://twitter.com" class="social-icon twitter">
